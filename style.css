@@ -1,0 +1,255 @@
+.zero {
+    /* background: #E5E5E5; */
+    position: relative;
+    width: 1440px;
+    height: 5667px;
+    background: #FFFFFF;
+}
+
+p {
+    font-size: 16px;
+    letter-spacing: 10%;
+    border-spacing: 5px;
+}
+
+button {
+    width: 202px;
+    height: 64px;
+    background-color: #2CAEB8;
+}
+
+.one {
+    width: 1440px;
+    height: 120px;
+    fill: Solid#FFFFFF;
+}
+
+.two {
+    width: 1440px;
+    height: 660px;
+    Fill: Solid rgba(51, 51, 51, 0.5)
+}
+
+.three1 {
+    Width: 469px;
+    Height: 229px;
+    font-family: Airbnb Cereal App;
+    font-style: Book;
+    text-align: center;
+    vertical-align: Top;
+    Fill: Solid #666666;
+}
+
+.three1  p{
+    border-spacing: 5px;
+}   
+ .three1 h1 {
+    font-family: Playfair Display;
+    font-style: Bold;
+    font-size: 40px;
+    line-height: 53px; 
+    line-height: 100%;
+    text-align: Left;
+    vertical-align: Top;
+    letter-spacing: 5%;
+    Fill: Solid #364B4D; 
+ }
+
+ .three1 img {
+    Width: 591px;
+    height: 387px;
+ }
+
+
+.four {
+    Width: 1440px;
+    Height: 990px;
+    Fill: Solid #F2FEFF;
+    }
+
+  .four img {
+      width: 370px;
+      height: 210px;
+  }  
+
+  .four 
+
+.six {
+    position: absolute;
+width: 83px;
+height: 21px;
+left: 1257px;
+top: 50px;
+
+font-family: Airbnb Cereal App;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+text-transform: capitalize;
+
+color: #666666;
+
+}
+
+.seven {
+    width: 801px;
+    height: 818px;
+    fill: solid #FFFFFF;
+    border-radius: 8px;
+    offset: 1px, 2px rgba(0, 0, 0, 0.15);
+}
+
+.eight {
+    width: 1440px;
+    height: 705px;
+    Fill: Solid rgba(54, 75, 77, 0.7);
+    background-image: url(./images/wed1.png);
+
+}
+ 
+.eight h5 {
+    width: 538px;
+    height: 21px;
+    font-size: 16px;
+    align-content: left;
+    vertical-align: top;
+    letter-spacing: 10%;
+    fill: solid #FFFFFF;
+}
+
+.eight img {
+    height: 705px;
+    fill: solid #F2FEFF;
+}
+
+.thirteen {
+    width: 1440px;
+    height: 1259px;
+    fill: solid #F2FEFF;
+}
+
+.sixteen {
+    height: 120px;
+    fill: solid #364B4D;
+}
+
+banner {
+    position: absolute;
+width: 1440px;
+height: 660px;
+left: 0px;
+top: 120px;
+
+background: rgba(51, 51, 51, 0.5);
+}
+
+.navbar-light .navbar-nav .active > .navbar-light, .navbar-nav .nav-link .active, .navbar-light .navbar-nav .nav-link .show > .nav-link {
+    color: #FFFFFF;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+
+.navbar-light .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #FFFFFF;
+}
+
+.navbar-nav a {
+    font-family: poppins;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-brand {
+    color: #ffffff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+
+
+ .navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    color: white;
+    background-color: white !important;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.navbar-collapse {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    background: none !important;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background: rgba(0,0,0,0.7) !important;
+    left: 0;
+    z-index: 1030;
+}
+
+.navbar-toggler {
+    /* height: 40px; */
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    align-items: center;
+    justify-content: right;
+    box-sizing: border-box;
+} 
+
+.carousel-item .in-obj{
+    top: 50% !important;
+    left: 50% !important; 
+    position: absolute !important;
+    transform: translate(-50%, -50%) !important;
+    text-align: center !important;
+    
+}
+
+.carousel-caption h2{
+    color: #ffffff !important;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: poppins;
+}
+
+.carousel-caption h2 span{
+    color: #FFFFFF;
+}
+
+.carousel-caption  p{
+    color: #ffffff !important;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: century gothic;
+
+}
+
+.carousel-caption button{
+    background: #2CAEB8 !important;
+    padding: 15px 35px !important;
+    display: inline-block;
+    margin-top: 15px;
+    background-color: #FFFFFF ;
+    /* outline: none; */
+    border: 0;
+}
